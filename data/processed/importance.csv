@@ -1,0 +1,22 @@
+feature,importance,std,label
+grid,0.02223730314581642,0.0021929075822326263,Grid position
+quali_position,0.010378884140002254,0.0016658519778093438,Qualifying position
+quali_gap_pct,0.005161526317815979,0.002213023337444602,Qualifying gap to pole (%)
+con_points_form_5,0.0049083593238612,0.001815418364658731,"Team avg points, last 5"
+drv_points_share_before,0.0015324785337491487,0.0011818885893750896,Driver points vs leader
+sprint_position,0.0008162950983789053,0.000683628141780812,Sprint finish (same weekend)
+drv_podium_rate_10,0.0007970428554925802,0.0009826549208959787,"Driver podium rate, last 10"
+drv_form_5,0.0005438758615378125,0.0002201942403777043,"Driver avg finish, last 5"
+teammate_quali_delta,0.00039852142774630115,0.0002907407404101826,Quali gap vs teammate (pp)
+drv_form_3,0.0003898579184474449,0.0002630680036691154,"Driver avg finish, last 3"
+drv_points_form_5,0.0002993723768818235,0.0005046043711003323,"Driver avg points, last 5"
+drv_dnf_rate_10,9.337337799851797e-05,0.0001972791335093997,"Driver DNF rate, last 10"
+drv_champ_rank_before,8.856031727696445e-05,0.0008309054807061336,Driver championship rank
+drv_circuit_avg_finish,5.005583150434756e-05,0.0002645975480588095,Driver avg finish at circuit
+street_circuit,2.117746717487101e-05,4.2135590905706346e-05,Street circuit
+drv_starts,9.626121443129244e-06,0.00016210800073171376,Driver career starts
+pit_lane_start,0.0,0.0,Pit-lane start
+round,-1.6364406453384107e-05,0.00015951793189809,Round of season
+drv_circuit_starts,-7.893419583385742e-05,0.00013225324011855423,Driver starts at circuit
+con_champ_rank_before,-0.0006488005852682499,0.0004953329353263386,Team championship rank
+con_best_finish_form_5,-0.0006507258095568846,0.0005524454494743301,"Team best finish, last 5"
