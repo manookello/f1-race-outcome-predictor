@@ -130,6 +130,15 @@ python -m f1predict.data --start 2014 --end 2026   # optional: refresh data from
   A Plackett–Luce or Monte-Carlo layer on top of the ranker would give coherent race-level
   probabilities.
 
+## Related projects
+
+- [f1-tyre-strategy-analysis](https://github.com/manookello/f1-tyre-strategy-analysis): tyre
+  degradation, lap-time modelling, a strategy simulator and telemetry.
+- [motogp-performance-analytics](https://github.com/manookello/motogp-performance-analytics): the
+  same modelling approach applied to MotoGP, plus crash-risk modelling.
+- [f1-vs-motogp-circuits](https://github.com/manookello/f1-vs-motogp-circuits): lap times at
+  shared circuits and which championship is more competitive.
+
 ---
 
 Data © the Jolpica-F1 project contributors. This project is unofficial and is not associated with
